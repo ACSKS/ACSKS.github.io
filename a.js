@@ -71,9 +71,7 @@ function five(){
   index++;
   question();
 }
-function calc(){
 
-}
 var oneBtn=document.getElementById('one');
 oneBtn.addEventListener('click',one,false);
 
